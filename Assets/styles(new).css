@@ -130,6 +130,10 @@ iframe {
 }
 
 .contact {
+  height: vh;
+}
+
+.life{
   height: 70vh;
 }
 
